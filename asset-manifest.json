@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/portfolio_Amulya/static/css/main.455a3c8d.css",
+    "main.js": "/portfolio_Amulya/static/js/main.e5eb9078.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio_Amulya/static/js/787.1ed0c42c.chunk.js",
+    "static/media/MMMUT_Amulya_resume.pdf": "/portfolio_Amulya/static/media/MMMUT_Amulya_resume.ca37457e9aa390fc8845.pdf",
+    "static/media/profile.jpg": "/portfolio_Amulya/static/media/profile.657f975d550d1cb42a90.jpg",
+    "index.html": "/portfolio_Amulya/index.html",
+    "main.455a3c8d.css.map": "/portfolio_Amulya/static/css/main.455a3c8d.css.map",
+    "main.e5eb9078.js.map": "/portfolio_Amulya/static/js/main.e5eb9078.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio_Amulya/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.455a3c8d.css",
+    "static/js/main.e5eb9078.js"
+  ]
+}
